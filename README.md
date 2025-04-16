@@ -1,6 +1,6 @@
-# iOS Document Manager
+# DocumentFlow iOS
 
-An advanced iOS document management application that provides seamless online and offline document handling with robust Core Data persistence and a clean MVVM architectural pattern.
+An advanced iOS document management application that provides seamless online and offline document handling with robust Core Data persistence and a clean MVVM architectural pattern. DocumentFlow allows you to manage all your important files in one place with powerful organization tools, real-time sync, and robust search capabilities.
 
 ## Features
 
@@ -61,6 +61,9 @@ This application is built using the MVVM (Model-View-ViewModel) architecture pat
 ## Getting Started
 
 1. Clone the repository
+   ```
+   git clone https://github.com/TheNuckingfut/DocumentFlow-iOS.git
+   ```
 2. Open `DocumentManager.xcodeproj` in Xcode 13+
 3. Build and run on an iOS 15+ simulator or device
 
