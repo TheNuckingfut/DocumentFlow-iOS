@@ -7,7 +7,6 @@ import CoreData
  * Manages application lifecycle events and coordinates the app's core services.
  * Initializes the Core Data stack and sets up the initial UI.
  */
-@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
     /**
